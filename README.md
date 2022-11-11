@@ -11,3 +11,4 @@ A Work in Progress :)
 
 A python fractal maker using the turtle module. 
 
+![alt text](http://url/to/img.png)
