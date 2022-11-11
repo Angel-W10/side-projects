@@ -11,4 +11,4 @@ A Work in Progress :)
 
 A python fractal maker using the turtle module. 
 
-![alt text](http://url/to/img.png)
+![Fractal Sample](https://github.com/Angel-W10/side-projects/blob/main/fractal_sample.jpg)
